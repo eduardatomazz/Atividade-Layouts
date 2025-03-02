@@ -1,0 +1,24 @@
+.rosa{
+    background-color: rgb(236, 63, 121);
+    padding: 50px;
+    margin: 20px;
+    width: 430px;
+   
+}
+.quadrado{
+    background-color: rgb(233, 152, 179);
+    padding: 50px;
+    margin: 20px;
+}
+.flex{
+    display: flex;
+}
+.inv{
+    width: 423px;
+}
+.extender{
+    padding-right: 190px;
+}
+.alongar{
+    padding-bottom: 170px;
+}
